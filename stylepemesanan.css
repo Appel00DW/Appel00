@@ -25,3 +25,9 @@ font-weight: bold;
 .btn a{
     color: white;
 }
+.form-select {
+width:15% ;
+border: 2px solid gray;
+border-radius:5px ;
+font-weight: bold;
+}
